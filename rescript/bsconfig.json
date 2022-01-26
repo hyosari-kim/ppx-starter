@@ -1,0 +1,22 @@
+{
+  "name": "ppx-starter-test",
+  "sources": [
+    {
+      "dir": "src"
+    }
+  ],
+  "package-specs": [
+    {
+      "module": "commonjs",
+      "in-source": true
+    }
+  ],
+  "bs-dependencies": [],
+  "ppx-flags": [["../_build/default"]],
+  "warnings": {
+    "error": true,
+    "number": "-48"
+  },
+  "generators": [],
+  "bsc-flags": ["-bs-super-errors"]
+}
