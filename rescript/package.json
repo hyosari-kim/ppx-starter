@@ -1,0 +1,15 @@
+{
+  "name": "rescript-ppx-test",
+  "version": "0.0.1",
+  "description": "Test ppx",
+  "author": "hyosari-kim",
+  "license": "MIT",
+  "dependencies": {
+    "rescript": "^9.1.4"
+  },
+  "scripts": {
+    "res:build": "rescript",
+    "res:clean": "rescript clean",
+    "res:watch": "rescript build -w"
+  }
+}

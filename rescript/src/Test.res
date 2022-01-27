@@ -1,0 +1,1 @@
+let test = %greenlabs("foo")
