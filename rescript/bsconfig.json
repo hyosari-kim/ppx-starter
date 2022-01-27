@@ -12,7 +12,7 @@
     }
   ],
   "bs-dependencies": [],
-  "ppx-flags": [["../_build/default"]],
+  "ppx-flags": [["../_build/install/default/bin/ppx_starter"]],
   "warnings": {
     "error": true,
     "number": "-48"

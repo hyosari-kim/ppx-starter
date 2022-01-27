@@ -1,1 +1,6 @@
 _build
+node_modules
+*.lock
+.vscode
+rescript/lib
+*/.merlin

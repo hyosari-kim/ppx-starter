@@ -1,0 +1,5 @@
+(executable
+ (package ppx_starter)
+ (name bin)
+ (public_name ppx_starter)
+ (libraries ppx_starter))

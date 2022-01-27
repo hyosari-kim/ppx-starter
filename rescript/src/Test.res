@@ -1,1 +1,1 @@
-let test = %get_env("foo")
+let test = %greenlabs("foo")
