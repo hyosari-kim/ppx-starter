@@ -1,1 +1,1 @@
-let test = %greenlabs("foo")
+let test = %greenlabs(" this is foo")

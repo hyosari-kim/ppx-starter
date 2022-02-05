@@ -2,7 +2,7 @@
 'use strict';
 
 
-var test = "foo@greenlabs.co.kr";
+var test = " this is foosome suffix";
 
 exports.test = test;
 /* No side effect */
