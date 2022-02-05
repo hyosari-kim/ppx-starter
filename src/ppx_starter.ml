@@ -3,7 +3,7 @@ open Ppxlib
 let expand ~ctxt label =
   let loc = Expansion_context.Extension.extension_point_loc ctxt in
   match label with
-  | value -> Ast_builder.Default.estring ~loc value
+  | value -> Ast_builder.Default.estring ~loc (value^"@greenlabs.co.kr")
   | exception Not_found ->
     Location.raise_errorf ~loc "This is Error %s" label
   

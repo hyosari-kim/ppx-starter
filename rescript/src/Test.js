@@ -2,7 +2,7 @@
 'use strict';
 
 
-var test = "foo";
+var test = "foo@greenlabs.co.kr";
 
 exports.test = test;
 /* No side effect */
