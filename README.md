@@ -6,7 +6,7 @@ This is ppx starter template for Ocaml ppx newbie (It's me..🙏)
     ocamlfind ppx_tools/dumpast -e "[%custom "hello"]"
    ```
 2. Write ppx rewirter
-   Use ppxlib.metaquate
+   Use ppxlib.metaquot
 3. Test the ppx in the Ocaml file
 4. build ppx
 5. Test in the ReScript file (check the compile result)
